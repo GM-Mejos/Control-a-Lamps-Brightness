@@ -24,8 +24,6 @@
 
 ---
 
----
-
 ## 4. Answers to Coding Check Questions
 
 1. **In `int brightnessSetting = 75;`, identify the data type, variable name, and initial value. How would you change the value to 50?**
